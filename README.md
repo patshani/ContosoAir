@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/patelshani2211/Spatel/_apis/build/status/patshani.ContosoAir?branchName=master)](https://dev.azure.com/patelshani2211/Spatel/_build/latest?definitionId=16&branchName=master)# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
 # Microsoft.Github CI Demo
